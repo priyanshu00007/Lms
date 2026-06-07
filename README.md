@@ -1,4 +1,4 @@
-```markdown
+
 # 🚀 Node.js Express Backend Boilerplate
 
 A production-ready, scalable, and secure Node.js Express backend boilerplate with MongoDB, Redis, JWT authentication, file uploads, payment integration, and more.
